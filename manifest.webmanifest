@@ -1,7 +1,7 @@
 {
-  "name": "服务导航示例",
+  "name": "导航示例",
   "short_name": "导航示例",
-  "description": "可自定义的服务导航页面模板",
+  "description": "可自定义的导航页面模板",
   "lang": "zh-CN",
   "start_url": "./",
   "scope": "./",
